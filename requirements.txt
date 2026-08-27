@@ -1,0 +1,6 @@
+torch>=2.7,<2.11
+transformers>=4.40,<5
+datasets>=2.18,<5
+pandas>=2.0,<4
+pyarrow>=14.0,<26
+numpy>=1.24,<3
