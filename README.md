@@ -4,6 +4,10 @@ Official implementation of **AirLLM: Diffusion Policy-based Adaptive LoRA for Re
 
 AirLLM uses a PPO policy with conditional DDIM refinement to allocate layer-wise LoRA ranks under wireless communication constraints. The state combines channel information, dataset statistics, and the current rank assignment.
 
+## Paper
+
+[AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air](https://arxiv.org/abs/2507.11515)
+
 ## Files
 
 ```text

@@ -74,7 +74,7 @@ def parse_config() -> ExperimentConfig:
     """Load the experiment JSON and allow only essential runtime overrides."""
 
     parser = argparse.ArgumentParser(description="Train AirLLM with hierarchical PPO-DDIM.")
-    parser.add_argument("--config", default="configs/paper_opt_1.3b.json")
+    parser.add_argument("--config", default="configs/paper_rank8_snr10.json")
     parser.add_argument("--output-dir", help="Override the output directory.")
     parser.add_argument("--device", help="Override device, for example cuda or cpu.")
     args = parser.parse_args()
