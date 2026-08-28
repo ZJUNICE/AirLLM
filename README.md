@@ -66,4 +66,4 @@ The paper uses a training batch size of 32. On a smaller GPU, use gradient accum
 
 ## License
 
-Released under the [MIT License](LICENSE).
+Released under the [MIT License](LICENSE). Please cite the associated paper when using or reproducing this code.
