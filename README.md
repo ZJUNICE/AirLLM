@@ -6,7 +6,7 @@ AirLLM uses a PPO policy with conditional DDIM refinement to allocate layer-wise
 
 ## Paper
 
-[AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air](https://arxiv.org/abs/2507.11515)
+[AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air](https://arxiv.org/abs/2507.11515v2)
 
 ## Files
 
